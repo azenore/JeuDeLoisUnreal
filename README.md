@@ -14,3 +14,7 @@ A terme j'aimerais que ce jeu ai plus de mécaniques autours des lois et des rè
 
 J'ai travaillé un début de map en forme de panneau stop, par la suite une map similaire pourrait être implémenté dans Unity
 
+
+
+Pour faire avancer le pion il suffit de "roll the dice"
+
